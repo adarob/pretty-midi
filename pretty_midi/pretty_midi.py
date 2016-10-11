@@ -1177,8 +1177,8 @@ class PrettyMIDI(object):
 
         Parameters
         ----------
-        filename : str or file-like object
-            Path or file to write .mid file to.
+        filename : str or file
+            Path or file pointer to write .mid file to.
 
         """
 
